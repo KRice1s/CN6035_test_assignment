@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/KRice1s/CN6035_test_assignment#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "body": "^5.1.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "parser": "^0.1.4"
   }
 }
